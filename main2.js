@@ -52,8 +52,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const blackmail = [
     "Please",
     "I'm begging you",
-    "I'm crying",
-    "I'm sad",
+    "WEI SHA MA SAY NO",
+    "I'm sulking already!",
     "HUHUHUHU",
     "Please Say Yes",
     "I'm gonna cry",
@@ -102,7 +102,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const wedate = document.getElementById("wedate");
         const btns = document.getElementById("btns");
         btns.style.display = "none";
-        wedate.innerText = "We are each other's valentine now. I love you cutie. ❤️😘";
+        wedate.innerText = "You are now my valentine! Congratulations Vo Oi! ❤️😘";
 
         // Open index1.html in a new tab
         window.open("index1.html", "_blank");
